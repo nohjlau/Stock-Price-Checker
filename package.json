@@ -18,7 +18,8 @@
 		"mocha": "^7.0.0",
 		"mongodb": "^3.5.0",
 		"zombie": "^6.1.4",
-		"mongoose": "5.8.7"
+		"mongoose": "5.8.7",
+		"node-fetch": "2.6.0"
 	},
 	"engines": {
 		"node": "4.4.3"

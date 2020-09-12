@@ -19,7 +19,7 @@
 		"mongodb": "^3.5.0",
 		"zombie": "^6.1.4",
 		"mongoose": "5.8.7",
-		"node-fetch": "2.6.0"
+		"node-fetch": "2.6.1"
 	},
 	"engines": {
 		"node": "4.4.3"
